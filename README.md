@@ -3,7 +3,7 @@ I'm a sophomore studying at <strong>USC</strong> as a Computer Science Major. I 
 
 ## Current Projects <br/>
 
-> 🔥 [NataliePhamPortoflio](https://github.com/nataliepham25/natalie-portfolio) - I'm planning to rebuilding my portfolio to modernize and simplify the code structure with React and make all of the pages mobile compatible.
+> 🔥 [NataliePhamPortoflio](https://github.com/nataliepham25/natalie-portfolio) - I'm planning to rebuild my portfolio to modernize and simplify the code structure with React and make all of the pages mobile compatible.
 
 
 ## My Values
