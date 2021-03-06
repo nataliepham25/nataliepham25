@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-I'm a sophomore studying at <strong>USC</strong> as a Computer Science Major. I am currently a Software Engineer Intern at Intel. In the summer, I will be a Full Stack Developer on the IBM Cloud Team with an emphasis in Cloud Computing. In the Fall, I will be a Technical Product Management Intern on the Facebook Reality Labs and React Development Team. I previously interned at Google on the Google Cloud Platforms team.
+I'm a sophomore studying at <strong>USC</strong> as a Computer Science Major. I am currently a Software Engineer Intern at Intel. 
 
 ## Current Projects <br/>
 
@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+In the summer, I will be a Full Stack Developer on the IBM Cloud Team with an emphasis in Cloud Computing. In the Fall, I will be a Technical Product Management Intern on the Facebook Reality Labs and React Development Team. I previously interned at Google on the Google Cloud Platforms team.
 -->
