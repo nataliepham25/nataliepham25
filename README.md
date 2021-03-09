@@ -1,6 +1,14 @@
 # Hi there, I'm Natalie 👋🏻
 I'm a sophomore studying at <strong>USC</strong> as a Computer Science Major. I am currently a Software Engineer Intern at Intel. 
 
+## Previous Experiences <br/>
+> Jan 2021 - May 2021: Software Engineer Intern @ Intel
+> Aug 2020 - Dec 2020: Computer Engineer Intern @ NASA
+> May 2020 - Sep 2020: Applied CS @ Google
+> Sep 2018 - Aug 2019: Tech Fellow @ The Tempest
+> Jul 2018 - Aug 2018: Girls Make Games Intern @ Google
+> Jun 2017 - Aug 2017: Girls Who Code Intern @ Amazon Lab126
+
 ## Current Projects <br/>
 
 > 🔥 [NataliePhamPortoflio](https://github.com/nataliepham25/natalie-portfolio) - I'm planning to rebuild my portfolio to modernize and simplify the code structure with React and make all of the pages mobile compatible.
