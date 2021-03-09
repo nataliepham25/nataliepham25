@@ -1,13 +1,13 @@
 # Hi there, I'm Natalie 👋🏻
-I'm a sophomore studying at <strong>USC</strong> as a Computer Science Major. I am currently a Software Engineer Intern at Intel. 
+My pronouns are she/her. I'm a sophomore studying at <strong>USC</strong> as a Computer Science Major. I am currently a Software Engineer Intern at Intel. 
 
 ## Previous Experiences <br/>
-Jan 2021 - May 2021: Software Engineer Intern @ Intel </br>
-Aug 2020 - Dec 2020: Computer Engineer Intern @ NASA </br>
-May 2020 - Sep 2020: Applied CS @ Google </br>
-Sep 2018 - Aug 2019: Tech Fellow @ The Tempest </br>
-Jul 2018 - Aug 2018: Girls Make Games Intern @ Google </br>
-Jun 2017 - Aug 2017: Girls Who Code Intern @ Amazon Lab126 </br>
+> Jan 2021 - May 2021: Software Engineer Intern @ Intel </br>
+> Aug 2020 - Dec 2020: Computer Engineer Intern @ NASA </br>
+> May 2020 - Sep 2020: Applied CS @ Google </br>
+> Sep 2018 - Aug 2019: Tech Fellow @ The Tempest </br>
+> Jul 2018 - Aug 2018: Girls Make Games Intern @ Google </br>
+> Jun 2017 - Aug 2017: Girls Who Code Intern @ Amazon Lab126 </br>
 
 ## Current Projects <br/>
 
