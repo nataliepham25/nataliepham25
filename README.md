@@ -32,7 +32,7 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>US
 💻 Mechancial Keyboard Building
 
 ## Connect with Me
-<a href="nqpham.me/natalie-portfolio/">
+<a href="www.nqpham.me/natalie-portfolio/">
   <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
 </a>
 <a href="https://linkedin.com/in/nataliepham25">
