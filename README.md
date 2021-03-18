@@ -32,9 +32,7 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>US
 💻 Mechancial Keyboard Building
 
 ## Connect with Me
-<a href="www.nqpham.me/natalie-portfolio/">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
-</a>
+- [Portfolio](nqpham.me/natalie-portfolio/) <br/>
 <a href="https://linkedin.com/in/nataliepham25">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -62,7 +60,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- 
+<a href="www.nqpham.me/natalie-portfolio/">
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
+</a>
 - [Portfolio](nqpham.me/natalie-portfolio/) <br/>
 - [Instagram](https://www.instagram.com/natalie.pham) <br/>
 - [Linkedin](https://www.linkedin.com/in/nataliepham25/) <br/>
