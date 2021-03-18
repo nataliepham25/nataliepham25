@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-My pronouns are she/her. I'm a sophomore studying at <strong>USC</strong> as a Computer Science Major. I am currently a Software Engineer Intern at Intel. 
+My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong> with a minor in Cloud Computing with DevOps. Currently, I'm a Software Engineer Intern at Intel.
 
 ## Previous Experiences <br/>
 > Jan 2021 - May 2021: Software Engineer Intern @ Intel </br>
@@ -32,7 +32,7 @@ My pronouns are she/her. I'm a sophomore studying at <strong>USC</strong> as a C
 💻 Mechancial Keyboard Building
 
 ## Connect with Me
-<a href="https://nqpham.me/natalie-portfolio/">
+<a href="nqpham.me/natalie-portfolio/">
   <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
 </a>
 <a href="https://linkedin.com/in/nataliepham25">
