@@ -32,11 +32,21 @@ My pronouns are she/her. I'm a sophomore studying at <strong>USC</strong> as a C
 💻 Mechancial Keyboard Building
 
 ## Connect with Me
-- [Portfolio](https://nqpham.me/natalie-portfolio/) <br/>
-- [Instagram](https://www.instagram.com/natalie.pham) <br/>
-- [Linkedin](https://www.linkedin.com/in/nataliepham25/) <br/>
-- [Twitter](https://twitter.com/natotodoroki) <br/>
-- 💬 Ask me about internship recruiting and resume advice!
+<a href="https://nqpham.me/natalie-portfolio/">
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
+</a>
+<a href="https://linkedin.com/in/nataliepham25">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/natotodoroki">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://instagram.com/natalie.pham">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://open.spotify.com/user/nataliepham5?si=7_JheanEQRW4-E0-OJ7HfA">
+  <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+</a>
 
 
 <!--
@@ -53,5 +63,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- [Portfolio](https://nqpham.me/natalie-portfolio/) <br/>
+- [Instagram](https://www.instagram.com/natalie.pham) <br/>
+- [Linkedin](https://www.linkedin.com/in/nataliepham25/) <br/>
+- [Twitter](https://twitter.com/natotodoroki) <br/>
+- 💬 Ask me about internship recruiting and resume advice!
 In the summer, I will be a Full Stack Developer on the IBM Cloud Team with an emphasis in Cloud Computing. In the Fall, I will be a Technical Product Management Intern on the Facebook Reality Labs and React Development Team. I previously interned at Google on the Google Cloud Platforms team.
 -->
