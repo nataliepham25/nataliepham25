@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- [Portfolio](https://nqpham.me/natalie-portfolio/) <br/>
+- [Portfolio](nqpham.me/natalie-portfolio/) <br/>
 - [Instagram](https://www.instagram.com/natalie.pham) <br/>
 - [Linkedin](https://www.linkedin.com/in/nataliepham25/) <br/>
 - [Twitter](https://twitter.com/natotodoroki) <br/>
