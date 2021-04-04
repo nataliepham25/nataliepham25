@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong>. Currently, I'm a Software Engineer Intern at Intel.
+My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong>. Currently, I'm a Software Engineer Intern at Intel. This summer, I will be a Software Engineer Intern at IBM working on full-stack web development using React and IBM Cloud on the Enterprise Performance Management Team.
 
 ## Previous Experiences <br/>
 > Jan 2021 - May 2021: Software Engineer Intern @ Intel </br>
@@ -14,9 +14,11 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>US
 > 🔥 [NataliePhamPortoflio](https://github.com/nataliepham25/natalie-portfolio) - I'm planning to rebuild my portfolio to modernize and simplify the code structure with React and make all of the pages mobile compatible.
 
 ## Awards
+✍️ Trustee Scholar at USC (Full-Ride Scholarship) <br/>
 💜 NCWIT Certificate of Distinction <br/>
 ✏️ Wogrammer Honorable Mention <br/>
 👾 Kode With Klossy Web Applications Scholarship <br/>
+
 
 
 
