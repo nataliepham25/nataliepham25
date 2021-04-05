@@ -15,7 +15,7 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>US
 > 🔥 [OmegaPapaSquat](https://github.com/dwongbound/papaSquat) - Web development project that tracks workouts in blog form
 
 ## Awards
-✍️ Trustee Scholar at USC (Full-Ride Scholarship) <br/>
+✍️ Trustee Scholar at USC <br/>
 💜 NCWIT Certificate of Distinction <br/>
 ✏️ Wogrammer Honorable Mention <br/>
 👾 Kode With Klossy Web Applications Scholarship <br/>
