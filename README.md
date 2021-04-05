@@ -11,7 +11,7 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>US
 
 ## Current Projects <br/>
 
-> 🔥 [NataliePhamPortoflio](https://github.com/nataliepham25/natalie-portfolio) - I'm planning to rebuild my portfolio to modernize and simplify the code structure with React and make all of the pages mobile compatible.
+> 🔥 [NataliePhamPortoflio](https://github.com/nataliepham25/natalie-portfolio) - I'm planning to rebuild my portfolio to modernize and simplify the code structure with React and make all of the pages mobile compatible. </br>
 > 🔥 [OmegaPapaSquat](https://github.com/dwongbound/papaSquat) - Web development project that tracks workouts in blog form
 
 ## Awards
