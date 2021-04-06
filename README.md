@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong>. Currently, I'm a Software Engineer Intern at Intel. This summer, I will be a Software Engineer Intern at IBM working on full-stack web development using React and IBM Cloud on the Enterprise Performance Management Team.
+My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong>. Currently, I'm a Software Engineer Intern at Intel. This summer, I will be a Software Engineer Intern at IBM working on full-stack web development using Vue.js and IBM Cloud on the Enterprise Performance Management Team.
 
 ## Previous Experiences <br/>
 > Jan 2021 - May 2021: Software Engineer Intern @ Intel </br>
