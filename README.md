@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong>. Currently, I'm a Software Engineer Intern at Intel. 
+My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong> and I'm a Software Engineer Intern at Intel (at the moment). 
 
 ## Previous Experiences <br/>
 > Jan 2021 - May 2021: Software Engineer Intern @ Intel </br>
