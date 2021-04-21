@@ -20,9 +20,6 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>US
 ✏️ Wogrammer Honorable Mention <br/>
 👾 Kode With Klossy Web Applications Scholarship <br/>
 
-
-
-
 ## My Values
 🧠 Thoughtful & Inclusive Development <br/>
 🖤 Normalization of providing low-income students with opportunities <br/>
@@ -48,6 +45,7 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>US
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
 **nataliepham25/nataliepham25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
