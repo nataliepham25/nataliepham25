@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong> and I'm a Software Engineer Intern at Intel (at the moment). 
+My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>UCLA</strong> and I'm a Software Engineer Intern at Intel (at the moment). 
 
 ## Previous Experiences <br/>
 > Jan 2021 - May 2021: Software Engineer Intern @ Intel </br>
@@ -15,7 +15,7 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>US
 > 🔥 [OmegaPapaSquat](https://github.com/dwongbound/papaSquat) - Web development project that tracks workouts in blog form
 
 ## Awards
-✍️ Trustee Scholar at USC <br/>
+✍️ Regents Scholar at UCLA <br/>
 💜 NCWIT Certificate of Distinction <br/>
 ✏️ Wogrammer Honorable Mention <br/>
 👾 Kode With Klossy Web Applications Scholarship <br/>
