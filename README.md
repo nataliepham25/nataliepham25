@@ -16,22 +16,21 @@ My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>UC
 > 🔥 [OmegaPapaSquat](https://github.com/dwongbound/papaSquat) - Web development project that tracks workouts in blog form
 
 ## Awards
-✍️ Regents Scholar at UCLA <br/>
-✍️ Alumni Scholar at UCLA <br/>
-💜 NCWIT Certificate of Distinction <br/>
-✏️ Wogrammer Honorable Mention <br/>
-👾 Kode With Klossy Web Applications Scholarship <br/>
+✍️  Alumni Scholar at UCLA <br/>
+💜  NCWIT Certificate of Distinction <br/>
+✏️  Wogrammer Honorable Mention <br/>
+👾  Kode With Klossy Web Applications Scholarship <br/>
 
 ## My Values
-🧠 Thoughtful & Inclusive Development <br/>
-🖤 Normalization of providing low-income students with opportunities <br/>
-💡 Racial and Gender Equality <br/>
-🙌 Teamwork & Communication
+🧠  Thoughtful & Inclusive Development <br/>
+🖤  Normalization of providing low-income students with opportunities <br/>
+💡  Racial and Gender Equality <br/>
+🙌  Teamwork & Communication
 
 ## Hobbies
-☕ Boba Enthusiast <br/>
-📷 Photographer </br>
-💻 Mechancial Keyboard Building
+☕  Boba Enthusiast <br/>
+📷  Photographer </br>
+💻  Mechancial Keyboard Building
 
 ## Connect with Me
 <a href="https://linkedin.com/in/nataliepham25">
