@@ -2,7 +2,7 @@
 My pronouns are she/her. I'm a sophomore studying Computer Science at <strong>USC</strong> and I'm a Software Engineer Intern at Amazon Web Services. 
 
 ## Previous Experiences <br/>
-> Jun 2021 - Sept 2021: Software Engineer Intern @ Amazon Web Services </br>
+> Jun 2021 - Aug 2021: Software Engineer Intern @ Amazon Web Services </br>
 > Jan 2021 - May 2021: Software Engineer Intern @ Intel </br>
 > Aug 2020 - Dec 2020: Computer Engineer Intern @ NASA </br>
 > May 2020 - Sep 2020: Applied CS @ Google </br>
