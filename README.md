@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-My pronouns are she/her. I'm a junior studying Computer Science at <strong>USC</strong> and I'm a Software Engineer Intern at Amazon Web Services. 
+My pronouns are she/her. I'm a junior studying Computer Science at <strong>UCLA</strong> and I'm a Software Engineer Intern at Amazon Web Services. 
 
 ## Previous Experiences <br/>
 > Jun 2021 - Aug 2021: Software Engineer Intern @ Amazon Web Services </br>
