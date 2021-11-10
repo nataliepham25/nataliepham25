@@ -2,6 +2,7 @@
 My pronouns are she/her. I'm a junior studying Computer Science at <strong>USC</strong>. 
 
 ## Previous Experiences <br/>
+> Nov 2021 - Present:  Software Engineer Intern @ SAP </br>
 > Sep 2021 - Dec 2021: Computer Science Research Mentorship Program @ Google </br>
 > Jun 2021 - Aug 2021: Software Development Engineer Intern @ Amazon Web Services </br>
 > May 2021 - Jul 2021: Product Management Intern @ InternHacks </br>
