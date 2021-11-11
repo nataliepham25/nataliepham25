@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-My pronouns are she/her. I'm a junior studying Computer Science at <strong>USC</strong>. 
+My pronouns are she/her. I'm a junior studying Computer Science at <strong>USC</strong>. I am currently a Software Engineer Intern at SAP.
 
 ## Previous Experiences <br/>
 > Nov 2021 - Present:  Software Engineer Intern @ SAP </br>
