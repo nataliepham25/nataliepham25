@@ -2,7 +2,7 @@
 My pronouns are she/her. I'm a Senior studying Computer Science at <strong>USC</strong>. I am currently a Software Engineer at SAP.
 
 ## Previous Experiences <br/>
-> Aug 2022 - May 2023: Software Engineer/Technical Product Management Intern @ SAP </br>
+> Aug 2022 - June 2023: Software Engineer/Technical Product Management Intern @ SAP </br>
 > May 2022 - Aug 2022: Software Engineer Intern @ Google </br>
 > Dec 2021 - May 2022:  Software/UX Engineer Intern @ SAP </br>
 > Sep 2021 - Dec 2021: Computer Science Research Mentorship Program @ Google </br>
