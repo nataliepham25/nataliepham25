@@ -1,5 +1,5 @@
 # Hi there, I'm Natalie 👋🏻
-My pronouns are she/her. I'm a Senior studying Computer Science at <strong>USC</strong>. I am currently a Software Engineer at SAP.
+My pronouns are she/her. I recently graduated from <strong>USC</strong> with a B.S. in Computer Science. I am currently a Software Engineer at SAP.
 
 ## Previous Experiences <br/>
 > Aug 2022 - June 2023: Software Engineer/Technical Product Management Intern @ SAP </br>
